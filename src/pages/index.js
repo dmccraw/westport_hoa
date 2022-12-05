@@ -8,10 +8,10 @@ export default function Home() {
         <Link to="/documents/Bylaws.pdf">Bylaws</Link>
       </li>
       <li>
-        <Link to="/documents/CC&Rs.pdf">CCR's</Link>
+        <Link to="/documents/CC&Rs.pdf">CC&R's</Link>
       </li>
       <li>
-        <Link to="/documents/Community Handbook.pdf">Communite Handbook</Link>
+        <Link to="/documents/Community Handbook.pdf">Community Handbook</Link>
       </li>
       <li>
         <Link to="/documents/Patio Landscaping Guidelines.pdf">
