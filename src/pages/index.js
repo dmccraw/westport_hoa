@@ -18,6 +18,9 @@ export default function Home() {
           Patio Landscaping Guidelines
         </Link>
       </li>
+      <li>
+        <Link to="/newsletters/q1_2023.pdf">Q1 2023 Newsletter</Link>
+      </li>
     </ul>
   );
 }
