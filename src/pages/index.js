@@ -14,7 +14,7 @@ export default function Home() {
         <Link to="/documents/Community Handbook.pdf">Community Handbook</Link>
       </li>
       <li>
-        <Link to="/documents/PatioLandscapingGuidelines.pdf">
+        <Link to="/documents/Patio Landscaping Guidelines.pdf">
           Patio Landscaping Guidelines
         </Link>
       </li>
