@@ -19,6 +19,12 @@ export default function Home() {
         </Link>
       </li>
       <li>
+        <Link to="/documents/Homewoner & Tenant Info Form.pdf">
+        Homewoner & Tenant Info Form
+        </Link>
+      </li>
+
+      <li>
         <Link to="/newsletters/q1_2023.pdf">Q1 2023 Newsletter</Link>
       </li>
     </ul>
