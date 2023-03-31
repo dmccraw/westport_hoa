@@ -20,12 +20,16 @@ export default function Home() {
       </li>
       <li>
         <Link to="/documents/Homewoner & Tenant Info Form.pdf">
-        Homewoner & Tenant Info Form
+          Homewoner & Tenant Info Form
         </Link>
       </li>
-
       <li>
         <Link to="/newsletters/q1_2023.pdf">Q1 2023 Newsletter</Link>
+      </li>
+      <li>
+        <Link to="/newsletters/Westport Townhomes March Notice.pdf">
+          Westport Townhomes March Notice
+        </Link>
       </li>
     </ul>
   );
