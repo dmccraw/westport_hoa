@@ -24,12 +24,14 @@ export default function Home() {
                 Patio Landscaping Guidelines
               </Link>
             </li>
-            <li>
-              <Link to="/documents/Homewoner & Tenant Info Form.pdf">
-                Homewoner & Tenant Info Form
-              </Link>
-            </li>
           </ul>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <Link to="/documents/Homewoner & Tenant Info Form.pdf">
+            Homewoner & Tenant Info Form
+          </Link>
         </li>
       </ul>
       <ul>
