@@ -33,7 +33,7 @@ export default function Home() {
           <ul>
             <li>
               <Link to="/documents/Homewoner & Tenant Info Form.pdf">
-                Homewoner & Tenant Info Form
+                Homeowner & Tenant Info Form
               </Link>
             </li>
           </ul>
